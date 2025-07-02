@@ -1,4 +1,4 @@
-A CRUD APP Rest API
+A CRUD App Rest API
 
 ### Run the API in development mode
 ```javascript
